@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Inspire Me",
+    "version": "1.0",
+    "description": "Get inspired with a random quote every time you open a new tab!",
+    "author": "Your Name",
+    "icons": {
+      "16": "open-book.png",
+      "48": "open-book.png",
+      "128": "teaching.png"
+    },
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": []
+  }
+  
